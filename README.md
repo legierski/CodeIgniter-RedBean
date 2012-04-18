@@ -17,3 +17,4 @@
 * added (not very random) encryption key in config.php file
 * global XSS filtering active
 * .htaccess file for rewriting urls (no need for "/index.php/" part)
+
