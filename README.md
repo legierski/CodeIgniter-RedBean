@@ -30,5 +30,6 @@ loads of stuff
 
 ### Contact
 
-peter@legierski.net
+[peter@legierski.net](mailto:peter@legierski.net)
+
 [@PeterLegierski](http://twitter.com/peterlegierski)
