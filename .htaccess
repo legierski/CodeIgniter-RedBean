@@ -1,4 +1,5 @@
-SetEnv PHP_VER 5_TEST
+#Force latest version of PHP on OVH servers
+#SetEnv PHP_VER 5_TEST
 
 RewriteEngine On
 
